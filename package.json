@@ -1,6 +1,6 @@
 {
   "name": "@mariusc23/micro-status-check",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Status check middleware.",
   "main": "index.js",
   "files": [
